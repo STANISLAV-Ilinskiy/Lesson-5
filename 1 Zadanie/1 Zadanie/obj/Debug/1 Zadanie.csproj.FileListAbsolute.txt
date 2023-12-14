@@ -1,0 +1,8 @@
+C:\Users\Hp\OneDrive\Рабочий стол\GeekBrains\Разработчик\2Блок\5 урок\1 Zadanie\1 Zadanie\bin\Debug\1 Zadanie.exe.config
+C:\Users\Hp\OneDrive\Рабочий стол\GeekBrains\Разработчик\2Блок\5 урок\1 Zadanie\1 Zadanie\bin\Debug\1 Zadanie.exe
+C:\Users\Hp\OneDrive\Рабочий стол\GeekBrains\Разработчик\2Блок\5 урок\1 Zadanie\1 Zadanie\bin\Debug\1 Zadanie.pdb
+C:\Users\Hp\OneDrive\Рабочий стол\GeekBrains\Разработчик\2Блок\5 урок\1 Zadanie\1 Zadanie\obj\Debug\1 Zadanie.csproj.AssemblyReference.cache
+C:\Users\Hp\OneDrive\Рабочий стол\GeekBrains\Разработчик\2Блок\5 урок\1 Zadanie\1 Zadanie\obj\Debug\1 Zadanie.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\OneDrive\Рабочий стол\GeekBrains\Разработчик\2Блок\5 урок\1 Zadanie\1 Zadanie\obj\Debug\1 Zadanie.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Рабочий стол\GeekBrains\Разработчик\2Блок\5 урок\1 Zadanie\1 Zadanie\obj\Debug\1 Zadanie.exe
+C:\Users\Hp\OneDrive\Рабочий стол\GeekBrains\Разработчик\2Блок\5 урок\1 Zadanie\1 Zadanie\obj\Debug\1 Zadanie.pdb
